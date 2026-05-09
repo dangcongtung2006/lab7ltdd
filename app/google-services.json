@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952864582473",
+    "project_id": "labsiu",
+    "storage_bucket": "labsiu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952864582473:android:2a5dededec8c9833cb0898",
+        "android_client_info": {
+          "package_name": "com.example.lab7siu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY4XQynrN7uT0ztTOwKhh94dsMWOb3kJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
